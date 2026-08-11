@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kyungrak Choi
+# 👋 Hi, I'm Kyeongrak Choi
 
 ### Mobile App Developer → AI Agent Developer
 
