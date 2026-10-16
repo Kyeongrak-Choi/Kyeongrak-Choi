@@ -82,7 +82,7 @@ Solo Flutter app intended to reduce impulse spending. Users record an item's nam
 
 ### Current Learning
 
-Enrolled in Encore's AI Orchestration Engineer course (2026.08 - 2027.02). The program progresses from web-service and AI-backend fundamentals to single and multi-agent systems and service operations.
+Enrolled in Encore's AI Orchestration Engineer course (2026.08 - 2027.01). The program progresses from web-service and AI-backend fundamentals to single and multi-agent systems and service operations.
 
 **Topics covered in the program**
 
